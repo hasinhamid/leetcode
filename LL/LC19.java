@@ -9,7 +9,7 @@ public class LC19{
         
     }
 
-    
+    //class Solution{}
     public static ListNode removeNthFromEnd(ListNode head, int n) {
         int size=0;
         ListNode ptr=head;
